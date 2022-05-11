@@ -1,0 +1,1337 @@
+﻿Log file open, 06/16/21 22:22:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: A4
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1843190669) SRandInit(-1843190669).
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.402818
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.06.17-03.22.49:779][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.17-03.22.49:779][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.17-03.22.49:806][  0]LogInit: Computer: DESKTOP-2KKBEQE
+[2021.06.17-03.22.49:806][  0]LogInit: User: noman
+[2021.06.17-03.22.49:806][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.06.17-03.22.49:806][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.17-03.22.49:806][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.06.17-03.22.49:806][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.22.49:806][  0]LogMemory: Process Physical Memory: 280.86 MB used, 280.86 MB peak
+[2021.06.17-03.22.49:806][  0]LogMemory: Process Virtual Memory: 281.20 MB used, 281.20 MB peak
+[2021.06.17-03.22.49:806][  0]LogMemory: Physical Memory: 7827.48 MB used,  8462.33 MB free, 16289.81 MB total
+[2021.06.17-03.22.49:806][  0]LogMemory: Virtual Memory: 4804.71 MB used,  8462.33 MB free, 134217728.00 MB total
+[2021.06.17-03.22.50:293][  0]LogInit: Using OS detected language (en-US).
+[2021.06.17-03.22.50:293][  0]LogInit: Using OS detected locale (en-US).
+[2021.06.17-03.22.50:363][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.06.17-03.22.53:111][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.17-03.22.53:207][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.06.17-03.22.53:207][  0]LogD3D11RHI:       6052/0/8144 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2021.06.17-03.22.53:209][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.17-03.22.53:209][  0]LogD3D11RHI:       0/0/8144 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.17-03.22.53:209][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.17-03.22.53:217][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.17-03.22.53:217][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.17-03.22.53:217][  0]LogWindows: EnumDisplayDevices:
+[2021.06.17-03.22.53:218][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.06.17-03.22.53:218][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.06.17-03.22.53:218][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.06.17-03.22.53:218][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.06.17-03.22.53:218][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.06.17-03.22.53:218][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.06.17-03.22.53:218][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.06.17-03.22.53:218][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.06.17-03.22.53:218][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2021.06.17-03.22.53:293][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.17-03.22.53:323][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.17-03.22.53:327][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../Users/noman/Desktop/A4/Intermediate/Shaders/WorkingDirectory/5920/).
+[2021.06.17-03.22.53:327][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/noman/AppData/Local/Temp/UnrealShaderWorkingDir/74F250B14DF51464302D3DABF4B7C73F/'.
+[2021.06.17-03.22.53:327][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.17-03.22.54:189][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.06.17-03.22.54:257][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.06.17-03.22.54:328][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.06.17-03.22.54:395][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.06.17-03.22.54:464][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.06.17-03.22.54:534][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.06.17-03.22.54:602][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.06.17-03.22.54:671][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.06.17-03.22.54:733][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.06.17-03.22.54:804][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.17-03.22.54:869][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2021.06.17-03.22.54:937][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2021.06.17-03.22.55:004][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2021.06.17-03.22.55:070][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2021.06.17-03.22.55:136][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2021.06.17-03.22.55:267][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2021.06.17-03.22.55:267][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2021.06.17-03.22.55:327][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.06.17-03.22.55:452][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.06.17-03.22.55:495][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.06.17-03.22.55:560][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.06.17-03.22.55:624][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.06.17-03.22.55:690][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.06.17-03.22.55:760][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.06.17-03.22.55:760][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.17-03.22.56:549][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.17-03.22.56:625][  0]LogDerivedDataCache: Loaded boot cache 0.08s 93MB C:/Users/noman/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2021.06.17-03.22.56:625][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/noman/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2021.06.17-03.22.56:625][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/noman/Desktop/A4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.17-03.22.56:625][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.17-03.22.56:625][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/noman/Desktop/A4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.17-03.22.56:625][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.17-03.22.56:647][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.17-03.22.56:660][  0]LogDerivedDataCache: Using Local data cache path C:/Users/noman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.17-03.22.56:668][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.06.17-03.22.56:669][  0]LogSlate: Using Freetype 2.6.0
+[2021.06.17-03.22.56:678][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.17-03.22.56:678][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.17-03.22.56:922][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2021.06.17-03.22.57:047][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.17-03.22.57:523][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.06.17-03.22.57:583][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.06.17-03.22.57:583][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.17-03.22.57:583][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.06.17-03.22.57:583][  0]LogMeshReduction: No automatic mesh merging module available
+[2021.06.17-03.22.57:583][  0]LogMeshMerging: No automatic mesh merging module available
+[2021.06.17-03.22.57:585][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2021.06.17-03.22.57:948][  0]LogNetVersion: A4 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1575826742)
+[2021.06.17-03.22.58:176][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.046880 seconds
+[2021.06.17-03.22.58:181][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2021.06.17-03.22.58:181][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2021.06.17-03.22.58:181][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.17-03.22.58:287][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2021.06.17-03.23.01:412][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.17-03.23.01:467][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.17-03.23.02:303][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2021.06.17-03.23.02:818][  0]SourceControl: Source control is disabled
+[2021.06.17-03.23.02:818][  0]SourceControl: Source control is disabled
+[2021.06.17-03.23.02:886][  0]SourceControl: Source control is disabled
+[2021.06.17-03.23.02:951][  0]SourceControl: Source control is disabled
+[2021.06.17-03.23.03:781][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.17-03.23.04:114][  0]LogOcInput: OculusInput pre-init called
+[2021.06.17-03.23.04:444][  0]LogEngine: Initializing Engine...
+[2021.06.17-03.23.04:445][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.17-03.23.04:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.06.17-03.23.04:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.06.17-03.23.04:786][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.17-03.23.04:802][  0]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.23.04:816][  0]LogInit: FAudioDevice initialized.
+[2021.06.17-03.23.04:902][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/noman/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2021.06.17-03.23.04:915][  0]LogInit: Texture streaming: Enabled
+[2021.06.17-03.23.05:102][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.17-03.23.05:403][  0]LogInit: Transaction tracking system initialized
+[2021.06.17-03.23.05:842][  0]BlueprintLog: New page: Editor Load
+[2021.06.17-03.23.07:127][  0]LocalizationService: Localization service is disabled
+[2021.06.17-03.23.08:093][  0]LogConsoleResponse: Display: 
+[2021.06.17-03.23.08:246][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.06.17-03.23.08:246][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.17-03.23.08:246][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.06.17-03.23.09:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noman/Desktop/A4/Content/' took 0.02s
+[2021.06.17-03.23.09:713][  0]SourceControl: Source control is disabled
+[2021.06.17-03.23.09:713][  0]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.23.09:713][  0]LightingResults: New page: Lighting Build
+[2021.06.17-03.23.09:776][  0]MapCheck: New page: Map Check
+[2021.06.17-03.23.09:776][  0]LightingResults: New page: Lighting Build
+[2021.06.17-03.23.09:812][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.23.09:812][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.23.09:821][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.23.09:868][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.007ms to complete.
+[2021.06.17-03.23.09:868][  0]LogFileHelpers: Loading map 'MainMenu' took 0.155
+[2021.06.17-03.23.10:077][  0]LogCollectionManager: Loaded 0 collections in 0.001218 seconds
+[2021.06.17-03.23.10:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noman/Desktop/A4/Saved/Collections/' took 0.01s
+[2021.06.17-03.23.10:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noman/Desktop/A4/Content/Developers/noman/Collections/' took 0.01s
+[2021.06.17-03.23.10:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noman/Desktop/A4/Content/Collections/' took 0.01s
+[2021.06.17-03.23.10:178][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.06.17-03.23.10:186][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2386 classes and 500 folders.
+[2021.06.17-03.23.10:279][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.06.17-03.23.10:542][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.06.17-03.23.10:606][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2021.06.17-03.23.10:671][  0]LogSlate: Took 0.006893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.17-03.23.10:679][  0]LogSlate: Took 0.005403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.17-03.23.10:687][  0]LogSlate: Took 0.005254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.17-03.23.10:751][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:1).
+[2021.06.17-03.23.10:907][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2021.06.17-03.23.10:907][  0]LogLoad: (Engine Initialization) Total time: 23.57 seconds
+[2021.06.17-03.23.10:907][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.17-03.23.10:907][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2021.06.17-03.23.10:930][  0]LogAssetRegistry: Asset discovery search completed in 14.0300 seconds
+[2021.06.17-03.23.10:931][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2021.06.17-03.23.10:931][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2021.06.17-03.23.10:934][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.17-03.23.10:974][  0]LogSlate: Took 0.004931 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2021.06.17-03.23.26:321][836]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2021.06.17-03.23.26:338][836]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.23.26:339][836]LightingResults: New page: Lighting Build
+[2021.06.17-03.23.26:339][836]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.06.17-03.23.26:339][836]MapCheck: New page: Map Check
+[2021.06.17-03.23.26:339][836]LightingResults: New page: Lighting Build
+[2021.06.17-03.23.26:357][836]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.23.26:394][836]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.23.26:416][836]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.23.26:462][836]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.19ms to complete.
+[2021.06.17-03.23.26:463][836]LogFileHelpers: Loading map 'MainMenu' took 0.126
+[2021.06.17-03.23.27:958][ 13]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.23.27:983][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.23.27:983][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.23.27:983][ 13]PIE: New page: PIE session: MainMenu (Jun 16, 2021, 5:23:27 PM)
+[2021.06.17-03.23.27:983][ 13]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.06.17-03.23.27:984][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000830s)
+[2021.06.17-03.23.27:985][ 13]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.23.27:985][ 13]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2021.06.17-03.23.27:985][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001987s)
+[2021.06.17-03.23.28:001][ 13]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.23.28:008][ 13]LogInit: FAudioDevice initialized.
+[2021.06.17-03.23.28:205][ 13]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.23.28:207][ 13]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.16-22.23.28
+[2021.06.17-03.23.28:207][ 13]LogWorld: Bringing up level for play took: 0.000518
+[2021.06.17-03.23.28:266][ 13]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2021.06.17-03.23.28:271][ 13]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.076
+[2021.06.17-03.23.28:272][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.23.28:293][ 13]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2021.06.17-03.23.29:836][194]LogNet: Browse: /Game/Maps/LevelOne
+[2021.06.17-03.23.29:837][194]LogLoad: LoadMap: /Game/Maps/LevelOne
+[2021.06.17-03.23.29:847][194]Cmd: MEM
+[2021.06.17-03.23.29:856][194]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.23.29:856][194]LogMemory: Process Physical Memory: 998.09 MB used, 1184.13 MB peak
+[2021.06.17-03.23.29:856][194]LogMemory: Process Virtual Memory: 1550.00 MB used, 1579.23 MB peak
+[2021.06.17-03.23.29:856][194]LogMemory: Physical Memory: 8572.32 MB used,  7717.49 MB free, 16289.81 MB total
+[2021.06.17-03.23.29:856][194]LogMemory: Virtual Memory: 6548.98 MB used,  7717.49 MB free, 134217728.00 MB total
+[2021.06.17-03.23.29:856][194]LogMemory: 
+[2021.06.17-03.23.29:856][194]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.23.29:913][194]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.23.29:913][194]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.23.29:913][194]LoadErrors: Error: /Game/Maps/LevelOne : Can't find file for asset. /Game/LevelOne/LevelOne_TileMap
+[2021.06.17-03.23.29:913][194]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.23.29:914][194]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.23.29:918][194]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.23.29:919][194]LoadErrors: Failed to load /Game/LevelOne/LevelOne_TileMap.LevelOne_TileMap Referenced by LevelOne_TileMap_6
+[2021.06.17-03.23.29:919][194]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading NULL.
+[2021.06.17-03.23.30:184][194]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.23.30:184][194]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.23.30:186][194]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.23.30
+[2021.06.17-03.23.30:186][194]LogWorld: Bringing up level for play took: 0.001728
+[2021.06.17-03.23.30:188][194]LogLoad: Took 0.351095 seconds to LoadMap(/Game/Maps/LevelOne)
+[2021.06.17-03.23.32:703][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.23.32:744][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.23.46:560][134]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.23.46:580][134]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.23.46:580][134]LightingResults: New page: Lighting Build
+[2021.06.17-03.23.46:581][134]LoadErrors: New page: Loading map: LevelOne.umap
+[2021.06.17-03.23.46:581][134]MapCheck: New page: Map Check
+[2021.06.17-03.23.46:581][134]LightingResults: New page: Lighting Build
+[2021.06.17-03.23.46:651][134]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.23.46:677][134]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.23.46:730][134]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.62ms to complete.
+[2021.06.17-03.23.46:731][134]LogFileHelpers: Loading map 'LevelOne' took 0.151
+[2021.06.17-03.23.48:063][291]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.06.17-03.23.58:280][499]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.06.17-03.23.58:459][519]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (sky_Sprite)
+[2021.06.17-03.23.59:298][613]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.06.17-03.24.01:070][816]LogAIModule: Creating AISystem for world LevelTwo
+[2021.06.17-03.24.03:190][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.17-03.24.03:265][816]LogSavePackage: Save=56.67ms
+[2021.06.17-03.24.03:265][816]LogSavePackage: Moving '../../../../Users/noman/Desktop/A4/Saved/LevelOneB7FD0CDC4B745E223211678AF08B440E.tmp' to '../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap'
+[2021.06.17-03.24.03:267][816]LogSavePackage: Display: Finished SavePackage ../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap
+[2021.06.17-03.24.03:280][816]LogFileHelpers: Saving map 'LevelOne' took 0.143
+[2021.06.17-03.24.03:281][816]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelTwo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.24.03:281][816]LightingResults: New page: Lighting Build
+[2021.06.17-03.24.03:282][816]LoadErrors: New page: Loading map: LevelTwo.umap
+[2021.06.17-03.24.03:283][816]MapCheck: New page: Map Check
+[2021.06.17-03.24.03:283][816]LightingResults: New page: Lighting Build
+[2021.06.17-03.24.03:361][816]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.24.03:385][816]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.24.03:436][816]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.616ms to complete.
+[2021.06.17-03.24.03:436][816]LogFileHelpers: Loading map 'LevelTwo' took 0.156
+[2021.06.17-03.24.03:437][816]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.17-03.24.06:123][135]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.06.17-03.24.10:431][649]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.06.17-03.24.11:590][787]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.06.17-03.24.15:637][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelTwo" FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelTwo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.17-03.24.15:667][267]LogSavePackage: Save=11.64ms
+[2021.06.17-03.24.15:667][267]LogSavePackage: Moving '../../../../Users/noman/Desktop/A4/Saved/LevelTwo762C6F744A5A17D6FFB26EA370122626.tmp' to '../../../../Users/noman/Desktop/A4/Content/Levels/LevelTwo.umap'
+[2021.06.17-03.24.15:669][267]LogSavePackage: Display: Finished SavePackage ../../../../Users/noman/Desktop/A4/Content/Levels/LevelTwo.umap
+[2021.06.17-03.24.18:092][552]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.24.18:106][552]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.24.18:106][552]LightingResults: New page: Lighting Build
+[2021.06.17-03.24.18:107][552]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.06.17-03.24.18:107][552]MapCheck: New page: Map Check
+[2021.06.17-03.24.18:107][552]LightingResults: New page: Lighting Build
+[2021.06.17-03.24.18:185][552]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.24.18:211][552]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.24.18:265][552]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.378ms to complete.
+[2021.06.17-03.24.18:265][552]LogFileHelpers: Loading map 'MainMenu' took 0.160
+[2021.06.17-03.24.21:069][886]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.24.21:079][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.24.21:079][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.24.21:079][886]PIE: New page: PIE session: MainMenu (Jun 16, 2021, 5:24:21 PM)
+[2021.06.17-03.24.21:080][886]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.06.17-03.24.21:080][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000755s)
+[2021.06.17-03.24.21:081][886]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.24.21:081][886]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2021.06.17-03.24.21:081][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001516s)
+[2021.06.17-03.24.21:099][886]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.24.21:108][886]LogInit: FAudioDevice initialized.
+[2021.06.17-03.24.21:169][886]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.24.21:170][886]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.16-22.24.21
+[2021.06.17-03.24.21:170][886]LogWorld: Bringing up level for play took: 0.000934
+[2021.06.17-03.24.21:176][886]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.98
+[2021.06.17-03.24.21:176][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.24.22:728][ 68]LogNet: Browse: /Game/Maps/LevelOne
+[2021.06.17-03.24.22:728][ 68]LogLoad: LoadMap: /Game/Maps/LevelOne
+[2021.06.17-03.24.22:741][ 68]Cmd: MEM
+[2021.06.17-03.24.22:752][ 68]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.24.22:752][ 68]LogMemory: Process Physical Memory: 1174.38 MB used, 1184.13 MB peak
+[2021.06.17-03.24.22:752][ 68]LogMemory: Process Virtual Memory: 1767.43 MB used, 1769.56 MB peak
+[2021.06.17-03.24.22:752][ 68]LogMemory: Physical Memory: 8694.02 MB used,  7595.79 MB free, 16289.81 MB total
+[2021.06.17-03.24.22:752][ 68]LogMemory: Virtual Memory: 6790.03 MB used,  7595.79 MB free, 134217728.00 MB total
+[2021.06.17-03.24.22:752][ 68]LogMemory: 
+[2021.06.17-03.24.22:752][ 68]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.24.22:757][ 68]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.24.22:757][ 68]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.24.22:757][ 68]LoadErrors: Error: /Game/Maps/LevelOne : Can't find file for asset. /Game/LevelOne/LevelOne_TileMap
+[2021.06.17-03.24.22:757][ 68]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.24.22:757][ 68]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.24.22:759][ 68]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.24.22:759][ 68]LoadErrors: Failed to load /Game/LevelOne/LevelOne_TileMap.LevelOne_TileMap Referenced by LevelOne_TileMap_6
+[2021.06.17-03.24.22:759][ 68]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading NULL.
+[2021.06.17-03.24.22:771][ 68]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.24.22:771][ 68]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.24.22:773][ 68]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.24.22
+[2021.06.17-03.24.22:773][ 68]LogWorld: Bringing up level for play took: 0.001194
+[2021.06.17-03.24.22:774][ 68]LogLoad: Took 0.046359 seconds to LoadMap(/Game/Maps/LevelOne)
+[2021.06.17-03.24.27:262][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.24.27:302][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.24.32:649][239]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.24.32:649][239]LightingResults: New page: Lighting Build
+[2021.06.17-03.24.32:650][239]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.06.17-03.24.32:650][239]MapCheck: New page: Map Check
+[2021.06.17-03.24.32:650][239]LightingResults: New page: Lighting Build
+[2021.06.17-03.24.32:670][239]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.24.32:740][239]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.24.32:765][239]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.24.32:821][239]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.093ms to complete.
+[2021.06.17-03.24.32:821][239]LogFileHelpers: Loading map 'MainMenu' took 0.173
+[2021.06.17-03.24.35:991][618]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.24.36:000][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.24.36:000][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.24.36:000][618]PIE: New page: PIE session: MainMenu (Jun 16, 2021, 5:24:36 PM)
+[2021.06.17-03.24.36:000][618]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.06.17-03.24.36:001][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001202s)
+[2021.06.17-03.24.36:002][618]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.24.36:002][618]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2021.06.17-03.24.36:002][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002027s)
+[2021.06.17-03.24.36:021][618]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.24.36:028][618]LogInit: FAudioDevice initialized.
+[2021.06.17-03.24.36:088][618]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.24.36:089][618]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.16-22.24.36
+[2021.06.17-03.24.36:089][618]LogWorld: Bringing up level for play took: 0.000578
+[2021.06.17-03.24.36:094][618]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.1
+[2021.06.17-03.24.36:095][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.24.39:932][ 74]LogNet: Browse: /Game/Maps/LevelOne
+[2021.06.17-03.24.39:932][ 74]LogLoad: LoadMap: /Game/Maps/LevelOne
+[2021.06.17-03.24.39:945][ 74]Cmd: MEM
+[2021.06.17-03.24.39:957][ 74]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.24.39:957][ 74]LogMemory: Process Physical Memory: 1178.50 MB used, 1186.98 MB peak
+[2021.06.17-03.24.39:957][ 74]LogMemory: Process Virtual Memory: 1763.48 MB used, 1832.42 MB peak
+[2021.06.17-03.24.39:957][ 74]LogMemory: Physical Memory: 8714.83 MB used,  7574.98 MB free, 16289.81 MB total
+[2021.06.17-03.24.39:957][ 74]LogMemory: Virtual Memory: 6826.66 MB used,  7574.98 MB free, 134217728.00 MB total
+[2021.06.17-03.24.39:957][ 74]LogMemory: 
+[2021.06.17-03.24.39:957][ 74]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.24.40:001][ 74]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.24.40:001][ 74]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.24.40:001][ 74]LoadErrors: Error: /Game/Maps/LevelOne : Can't find file for asset. /Game/LevelOne/LevelOne_TileMap
+[2021.06.17-03.24.40:002][ 74]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.24.40:002][ 74]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.24.40:004][ 74]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.24.40:004][ 74]LoadErrors: Failed to load /Game/LevelOne/LevelOne_TileMap.LevelOne_TileMap Referenced by LevelOne_TileMap_6
+[2021.06.17-03.24.40:004][ 74]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading NULL.
+[2021.06.17-03.24.40:007][ 74]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.24.40:008][ 74]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.24.40:009][ 74]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.24.40
+[2021.06.17-03.24.40:009][ 74]LogWorld: Bringing up level for play took: 0.001387
+[2021.06.17-03.24.40:011][ 74]LogLoad: Took 0.078126 seconds to LoadMap(/Game/Maps/LevelOne)
+[2021.06.17-03.24.41:297][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.24.41:339][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.25.17:756][947]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.25.17:756][947]LightingResults: New page: Lighting Build
+[2021.06.17-03.25.17:757][947]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.06.17-03.25.17:757][947]MapCheck: New page: Map Check
+[2021.06.17-03.25.17:757][947]LightingResults: New page: Lighting Build
+[2021.06.17-03.25.17:779][947]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.25.17:875][947]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.25.17:903][947]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.25.17:963][947]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.551ms to complete.
+[2021.06.17-03.25.17:964][947]LogFileHelpers: Loading map 'MainMenu' took 0.209
+[2021.06.17-03.26.03:946][482]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.26.03:955][482]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.26.03:955][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.26.03:956][482]PIE: New page: PIE session: MainMenu (Jun 16, 2021, 5:26:03 PM)
+[2021.06.17-03.26.03:956][482]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.06.17-03.26.03:956][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000762s)
+[2021.06.17-03.26.03:957][482]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.26.03:957][482]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2021.06.17-03.26.03:957][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001495s)
+[2021.06.17-03.26.03:976][482]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.26.03:987][482]LogInit: FAudioDevice initialized.
+[2021.06.17-03.26.04:052][482]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.26.04:053][482]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.16-22.26.04
+[2021.06.17-03.26.04:053][482]LogWorld: Bringing up level for play took: 0.000681
+[2021.06.17-03.26.04:058][482]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.138
+[2021.06.17-03.26.04:058][482]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.26.05:890][697]LogNet: Browse: /Game/Maps/LevelOne
+[2021.06.17-03.26.05:890][697]LogLoad: LoadMap: /Game/Maps/LevelOne
+[2021.06.17-03.26.05:902][697]Cmd: MEM
+[2021.06.17-03.26.05:914][697]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.26.05:914][697]LogMemory: Process Physical Memory: 1175.42 MB used, 1191.58 MB peak
+[2021.06.17-03.26.05:914][697]LogMemory: Process Virtual Memory: 1775.32 MB used, 1833.20 MB peak
+[2021.06.17-03.26.05:914][697]LogMemory: Physical Memory: 9244.93 MB used,  7044.88 MB free, 16289.81 MB total
+[2021.06.17-03.26.05:914][697]LogMemory: Virtual Memory: 6792.03 MB used,  7044.88 MB free, 134217728.00 MB total
+[2021.06.17-03.26.05:914][697]LogMemory: 
+[2021.06.17-03.26.05:914][697]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.26.05:959][697]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.26.05:959][697]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.26.05:959][697]LoadErrors: Error: /Game/Maps/LevelOne : Can't find file for asset. /Game/LevelOne/LevelOne_TileMap
+[2021.06.17-03.26.05:959][697]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.26.05:959][697]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.26.05:961][697]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.26.05:961][697]LoadErrors: Failed to load /Game/LevelOne/LevelOne_TileMap.LevelOne_TileMap Referenced by LevelOne_TileMap_6
+[2021.06.17-03.26.05:961][697]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading NULL.
+[2021.06.17-03.26.05:965][697]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.26.05:965][697]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.26.05:966][697]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.26.05
+[2021.06.17-03.26.05:966][697]LogWorld: Bringing up level for play took: 0.000969
+[2021.06.17-03.26.05:967][697]LogLoad: Took 0.077824 seconds to LoadMap(/Game/Maps/LevelOne)
+[2021.06.17-03.26.07:522][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.26.07:562][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.26.10:857][271]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2021.06.17-03.26.11:875][348]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2021.06.17-03.26.12:426][348]LogSlate: Took 0.005344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.17-03.26.12:483][349]LogSlate: Took 0.005166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.17-03.26.24:068][632]LogAIModule: Creating AISystem for world LevelTwo
+[2021.06.17-03.26.24:094][632]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelTwo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.26.24:094][632]LightingResults: New page: Lighting Build
+[2021.06.17-03.26.24:094][632]LoadErrors: New page: Loading map: LevelTwo.umap
+[2021.06.17-03.26.24:095][632]MapCheck: New page: Map Check
+[2021.06.17-03.26.24:095][632]LightingResults: New page: Lighting Build
+[2021.06.17-03.26.24:245][632]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.26.24:277][632]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.26.24:332][632]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.885ms to complete.
+[2021.06.17-03.26.24:332][632]LogFileHelpers: Loading map 'LevelTwo' took 0.240
+[2021.06.17-03.26.32:582][555]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.26.34:433][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelTwo" FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelTwo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.17-03.26.34:472][555]LogSavePackage: Save=16.33ms
+[2021.06.17-03.26.34:472][555]LogSavePackage: Moving '../../../../Users/noman/Desktop/A4/Saved/LevelTwo1C139E744B0F65B89D119DA1335EFAAC.tmp' to '../../../../Users/noman/Desktop/A4/Content/Levels/LevelTwo.umap'
+[2021.06.17-03.26.34:474][555]LogSavePackage: Display: Finished SavePackage ../../../../Users/noman/Desktop/A4/Content/Levels/LevelTwo.umap
+[2021.06.17-03.26.34:487][555]LogFileHelpers: Saving map 'LevelTwo' took 0.109
+[2021.06.17-03.26.34:488][555]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.26.34:488][555]LightingResults: New page: Lighting Build
+[2021.06.17-03.26.34:488][555]LoadErrors: New page: Loading map: LevelOne.umap
+[2021.06.17-03.26.34:489][555]MapCheck: New page: Map Check
+[2021.06.17-03.26.34:489][555]LightingResults: New page: Lighting Build
+[2021.06.17-03.26.34:672][555]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.26.34:705][555]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.26.34:760][555]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.648ms to complete.
+[2021.06.17-03.26.34:760][555]LogFileHelpers: Loading map 'LevelOne' took 0.272
+[2021.06.17-03.27.33:473][957]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.27.33:496][957]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.27.33:497][957]LightingResults: New page: Lighting Build
+[2021.06.17-03.27.33:497][957]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.06.17-03.27.33:498][957]MapCheck: New page: Map Check
+[2021.06.17-03.27.33:498][957]LightingResults: New page: Lighting Build
+[2021.06.17-03.27.33:698][957]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.27.33:733][957]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.27.33:800][957]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.314ms to complete.
+[2021.06.17-03.27.33:800][957]LogFileHelpers: Loading map 'MainMenu' took 0.305
+[2021.06.17-03.27.35:149][116]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.27.35:162][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.27.35:162][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.27.35:162][116]PIE: New page: PIE session: MainMenu (Jun 16, 2021, 5:27:35 PM)
+[2021.06.17-03.27.35:162][116]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.06.17-03.27.35:163][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000804s)
+[2021.06.17-03.27.35:163][116]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.27.35:163][116]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2021.06.17-03.27.35:163][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001590s)
+[2021.06.17-03.27.35:188][116]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.27.35:196][116]LogInit: FAudioDevice initialized.
+[2021.06.17-03.27.35:259][116]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.27.35:260][116]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.16-22.27.35
+[2021.06.17-03.27.35:261][116]LogWorld: Bringing up level for play took: 0.000635
+[2021.06.17-03.27.35:267][116]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 1.072
+[2021.06.17-03.27.35:268][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.27.36:554][265]LogNet: Browse: /Game/Maps/LevelOne
+[2021.06.17-03.27.36:554][265]LogLoad: LoadMap: /Game/Maps/LevelOne
+[2021.06.17-03.27.36:572][265]Cmd: MEM
+[2021.06.17-03.27.36:589][265]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.27.36:589][265]LogMemory: Process Physical Memory: 1350.36 MB used, 1360.11 MB peak
+[2021.06.17-03.27.36:589][265]LogMemory: Process Virtual Memory: 1998.77 MB used, 2002.95 MB peak
+[2021.06.17-03.27.36:589][265]LogMemory: Physical Memory: 9895.54 MB used,  6394.28 MB free, 16289.81 MB total
+[2021.06.17-03.27.36:589][265]LogMemory: Virtual Memory: 7065.16 MB used,  6394.28 MB free, 134217728.00 MB total
+[2021.06.17-03.27.36:589][265]LogMemory: 
+[2021.06.17-03.27.36:589][265]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.27.36:594][265]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.27.36:594][265]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.27.36:594][265]LoadErrors: Error: /Game/Maps/LevelOne : Can't find file for asset. /Game/LevelOne/LevelOne_TileMap
+[2021.06.17-03.27.36:595][265]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.27.36:595][265]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.27.36:596][265]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.27.36:596][265]LoadErrors: Failed to load /Game/LevelOne/LevelOne_TileMap.LevelOne_TileMap Referenced by LevelOne_TileMap_6
+[2021.06.17-03.27.36:596][265]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading NULL.
+[2021.06.17-03.27.36:608][265]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.27.36:608][265]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.27.36:609][265]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.27.36
+[2021.06.17-03.27.36:609][265]LogWorld: Bringing up level for play took: 0.001067
+[2021.06.17-03.27.36:610][265]LogLoad: Took 0.057142 seconds to LoadMap(/Game/Maps/LevelOne)
+[2021.06.17-03.27.40:196][692]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.27.40:240][692]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.32.06:799][100]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.32.06:808][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.32.06:809][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.32.06:809][100]PIE: New page: PIE session: MainMenu (Jun 16, 2021, 5:32:06 PM)
+[2021.06.17-03.32.06:809][100]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.06.17-03.32.06:810][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000861s)
+[2021.06.17-03.32.06:810][100]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.32.06:811][100]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2021.06.17-03.32.06:811][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001936s)
+[2021.06.17-03.32.06:835][100]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.32.06:844][100]LogInit: FAudioDevice initialized.
+[2021.06.17-03.32.06:905][100]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.32.06:906][100]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.16-22.32.06
+[2021.06.17-03.32.06:906][100]LogWorld: Bringing up level for play took: 0.000699
+[2021.06.17-03.32.06:911][100]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.716
+[2021.06.17-03.32.06:911][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.32.24:273][474]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.32.24:324][474]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.32.26:941][482]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.32.26:951][482]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.32.26:951][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.32.26:951][482]PIE: New page: PIE session: MainMenu (Jun 16, 2021, 5:32:26 PM)
+[2021.06.17-03.32.26:951][482]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.06.17-03.32.26:952][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000941s)
+[2021.06.17-03.32.26:953][482]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.32.26:953][482]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2021.06.17-03.32.26:953][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001836s)
+[2021.06.17-03.32.26:977][482]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.32.26:986][482]LogInit: FAudioDevice initialized.
+[2021.06.17-03.32.27:053][482]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.32.27:054][482]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.16-22.32.27
+[2021.06.17-03.32.27:054][482]LogWorld: Bringing up level for play took: 0.000620
+[2021.06.17-03.32.27:062][482]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.867
+[2021.06.17-03.32.27:062][482]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.32.31:305][985]LogNet: Browse: /Game/Maps/LevelOne
+[2021.06.17-03.32.31:305][985]LogLoad: LoadMap: /Game/Maps/LevelOne
+[2021.06.17-03.32.31:324][985]Cmd: MEM
+[2021.06.17-03.32.31:341][985]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.32.31:341][985]LogMemory: Process Physical Memory: 1289.10 MB used, 1360.11 MB peak
+[2021.06.17-03.32.31:341][985]LogMemory: Process Virtual Memory: 1935.69 MB used, 2017.28 MB peak
+[2021.06.17-03.32.31:341][985]LogMemory: Physical Memory: 10359.47 MB used,  5930.34 MB free, 16289.81 MB total
+[2021.06.17-03.32.31:341][985]LogMemory: Virtual Memory: 7027.97 MB used,  5930.34 MB free, 134217728.00 MB total
+[2021.06.17-03.32.31:341][985]LogMemory: 
+[2021.06.17-03.32.31:341][985]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.32.31:394][985]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.32.31:394][985]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.32.31:394][985]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.32.31:394][985]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.32.31:396][985]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.32.31:396][985]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading NULL.
+[2021.06.17-03.32.31:401][985]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.32.31:402][985]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.32.31:403][985]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.32.31
+[2021.06.17-03.32.31:403][985]LogWorld: Bringing up level for play took: 0.001197
+[2021.06.17-03.32.31:405][985]LogLoad: Took 0.099683 seconds to LoadMap(/Game/Maps/LevelOne)
+[2021.06.17-03.32.33:049][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.32.33:096][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.32.46:380][712]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.32.46:380][712]LightingResults: New page: Lighting Build
+[2021.06.17-03.32.46:380][712]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.06.17-03.32.46:381][712]MapCheck: New page: Map Check
+[2021.06.17-03.32.46:381][712]LightingResults: New page: Lighting Build
+[2021.06.17-03.32.46:407][712]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.32.46:556][712]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.32.46:590][712]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.32.46:647][712]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.546ms to complete.
+[2021.06.17-03.32.46:648][712]LogFileHelpers: Loading map 'MainMenu' took 0.270
+[2021.06.17-03.33.00:628][315]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.33.03:004][593]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.33.03:004][593]LightingResults: New page: Lighting Build
+[2021.06.17-03.33.03:006][593]LoadErrors: New page: Loading map: LevelOne.umap
+[2021.06.17-03.33.03:006][593]MapCheck: New page: Map Check
+[2021.06.17-03.33.03:006][593]LightingResults: New page: Lighting Build
+[2021.06.17-03.33.03:239][593]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.33.03:275][593]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.33.03:339][593]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.943ms to complete.
+[2021.06.17-03.33.03:340][593]LogFileHelpers: Loading map 'LevelOne' took 0.337
+[2021.06.17-03.33.11:392][459]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.33.11:400][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.33.11:400][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.33.11:400][459]PIE: New page: PIE session: LevelOne (Jun 16, 2021, 5:33:11 PM)
+[2021.06.17-03.33.11:400][459]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2021.06.17-03.33.11:403][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002750s)
+[2021.06.17-03.33.11:404][459]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.33.11:404][459]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2021.06.17-03.33.11:404][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.003881s)
+[2021.06.17-03.33.11:430][459]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.33.11:438][459]LogInit: FAudioDevice initialized.
+[2021.06.17-03.33.11:502][459]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.33.11:504][459]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.33.11
+[2021.06.17-03.33.11:504][459]LogWorld: Bringing up level for play took: 0.001974
+[2021.06.17-03.33.11:511][459]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne -0.684
+[2021.06.17-03.33.11:512][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.33.13:766][655]LogNet: Browse: /Game/Levels/LevelTwo
+[2021.06.17-03.33.13:766][655]LogLoad: LoadMap: /Game/Levels/LevelTwo
+[2021.06.17-03.33.13:785][655]Cmd: MEM
+[2021.06.17-03.33.13:803][655]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.33.13:803][655]LogMemory: Process Physical Memory: 1355.52 MB used, 1360.11 MB peak
+[2021.06.17-03.33.13:803][655]LogMemory: Process Virtual Memory: 2096.03 MB used, 2100.18 MB peak
+[2021.06.17-03.33.13:803][655]LogMemory: Physical Memory: 9876.71 MB used,  6413.10 MB free, 16289.81 MB total
+[2021.06.17-03.33.13:803][655]LogMemory: Virtual Memory: 7134.85 MB used,  6413.10 MB free, 134217728.00 MB total
+[2021.06.17-03.33.13:803][655]LogMemory: 
+[2021.06.17-03.33.13:803][655]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.33.13:824][655]LogAIModule: Creating AISystem for world LevelTwo
+[2021.06.17-03.33.13:824][655]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.33.13:826][655]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo up for play (max tick rate 0) at 2021.06.16-22.33.13
+[2021.06.17-03.33.13:826][655]LogWorld: Bringing up level for play took: 0.001166
+[2021.06.17-03.33.13:827][655]LogLoad: Took 0.060960 seconds to LoadMap(/Game/Levels/LevelTwo)
+[2021.06.17-03.33.17:211][976]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.33.17:252][976]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.34.44:180][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenuScreen" FILE="../../../../Users/noman/Desktop/A4/Content/Blueprints/MainMenuScreen.uasset" SILENT=true
+[2021.06.17-03.34.44:228][442]LogSavePackage: Save=40.49ms
+[2021.06.17-03.34.44:228][442]LogSavePackage: Moving '../../../../Users/noman/Desktop/A4/Saved/MainMenuScreen46DE67E14CAA4FD0AD7FEC89F7CA586F.tmp' to '../../../../Users/noman/Desktop/A4/Content/Blueprints/MainMenuScreen.uasset'
+[2021.06.17-03.34.44:230][442]LogSavePackage: Display: Finished SavePackage ../../../../Users/noman/Desktop/A4/Content/Blueprints/MainMenuScreen.uasset
+[2021.06.17-03.34.49:628][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.17-03.34.49:711][ 76]LogSavePackage: Save=57.30ms
+[2021.06.17-03.34.49:711][ 76]LogSavePackage: Moving '../../../../Users/noman/Desktop/A4/Saved/LevelOneBE4994144DCB1838C9227C814E6F4B6E.tmp' to '../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap'
+[2021.06.17-03.34.49:712][ 76]LogSavePackage: Display: Finished SavePackage ../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap
+[2021.06.17-03.36.53:485][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenuScreen" FILE="../../../../Users/noman/Desktop/A4/Content/Blueprints/MainMenuScreen.uasset" SILENT=true
+[2021.06.17-03.36.53:531][656]LogSavePackage: Save=38.37ms
+[2021.06.17-03.36.53:531][656]LogSavePackage: Moving '../../../../Users/noman/Desktop/A4/Saved/MainMenuScreen2EA2B19A4CF7642D2C541E977A6A86D0.tmp' to '../../../../Users/noman/Desktop/A4/Content/Blueprints/MainMenuScreen.uasset'
+[2021.06.17-03.36.53:533][656]LogSavePackage: Display: Finished SavePackage ../../../../Users/noman/Desktop/A4/Content/Blueprints/MainMenuScreen.uasset
+[2021.06.17-03.36.54:351][737]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.36.54:367][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.36.54:367][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.36.54:367][737]PIE: New page: PIE session: LevelOne (Jun 16, 2021, 5:36:54 PM)
+[2021.06.17-03.36.54:367][737]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2021.06.17-03.36.54:370][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002338s)
+[2021.06.17-03.36.54:370][737]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.36.54:370][737]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2021.06.17-03.36.54:370][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.003056s)
+[2021.06.17-03.36.54:397][737]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.36.54:405][737]LogInit: FAudioDevice initialized.
+[2021.06.17-03.36.54:472][737]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.36.54:474][737]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.36.54
+[2021.06.17-03.36.54:474][737]LogWorld: Bringing up level for play took: 0.001465
+[2021.06.17-03.36.54:481][737]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne 0.286
+[2021.06.17-03.36.54:482][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.36.57:512][ 12]LogNet: Browse: /Game/Levels/LevelTwo
+[2021.06.17-03.36.57:512][ 12]LogLoad: LoadMap: /Game/Levels/LevelTwo
+[2021.06.17-03.36.57:532][ 12]Cmd: MEM
+[2021.06.17-03.36.57:550][ 12]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.36.57:550][ 12]LogMemory: Process Physical Memory: 1410.63 MB used, 1419.62 MB peak
+[2021.06.17-03.36.57:550][ 12]LogMemory: Process Virtual Memory: 2210.23 MB used, 2289.55 MB peak
+[2021.06.17-03.36.57:550][ 12]LogMemory: Physical Memory: 9842.11 MB used,  6447.70 MB free, 16289.81 MB total
+[2021.06.17-03.36.57:550][ 12]LogMemory: Virtual Memory: 7247.26 MB used,  6447.70 MB free, 134217728.00 MB total
+[2021.06.17-03.36.57:550][ 12]LogMemory: 
+[2021.06.17-03.36.57:550][ 12]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.36.57:593][ 12]LogAIModule: Creating AISystem for world LevelTwo
+[2021.06.17-03.36.57:593][ 12]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.36.57:595][ 12]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo up for play (max tick rate 0) at 2021.06.16-22.36.57
+[2021.06.17-03.36.57:595][ 12]LogWorld: Bringing up level for play took: 0.001647
+[2021.06.17-03.36.57:597][ 12]LogLoad: Took 0.084672 seconds to LoadMap(/Game/Levels/LevelTwo)
+[2021.06.17-03.37.01:341][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.37.01:383][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.37.09:512][177]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.37.09:533][177]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.37.09:533][177]LightingResults: New page: Lighting Build
+[2021.06.17-03.37.09:534][177]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.06.17-03.37.09:534][177]MapCheck: New page: Map Check
+[2021.06.17-03.37.09:534][177]LightingResults: New page: Lighting Build
+[2021.06.17-03.37.09:725][177]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.37.09:756][177]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.37.09:812][177]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.787ms to complete.
+[2021.06.17-03.37.09:812][177]LogFileHelpers: Loading map 'MainMenu' took 0.280
+[2021.06.17-03.37.16:515][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.17-03.37.16:562][921]LogSavePackage: Save=23.44ms
+[2021.06.17-03.37.16:562][921]LogSavePackage: Moving '../../../../Users/noman/Desktop/A4/Saved/MainMenuB9205FA040AC8B43F1DAAAB7184498A0.tmp' to '../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap'
+[2021.06.17-03.37.16:564][921]LogSavePackage: Display: Finished SavePackage ../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap
+[2021.06.17-03.37.16:578][921]LogFileHelpers: Saving map 'MainMenu' took 0.120
+[2021.06.17-03.37.17:406][ 12]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.37.17:416][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.37.17:416][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.37.17:416][ 12]PIE: New page: PIE session: MainMenu (Jun 16, 2021, 5:37:17 PM)
+[2021.06.17-03.37.17:416][ 12]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.06.17-03.37.17:417][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000839s)
+[2021.06.17-03.37.17:417][ 12]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.37.17:418][ 12]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2021.06.17-03.37.17:418][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001638s)
+[2021.06.17-03.37.17:442][ 12]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.37.17:450][ 12]LogInit: FAudioDevice initialized.
+[2021.06.17-03.37.17:515][ 12]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.37.17:516][ 12]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.16-22.37.17
+[2021.06.17-03.37.17:516][ 12]LogWorld: Bringing up level for play took: 0.000597
+[2021.06.17-03.37.17:524][ 12]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.671
+[2021.06.17-03.37.17:524][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.37.18:740][129]LogNet: Browse: /Game/Maps/LevelOne
+[2021.06.17-03.37.18:741][129]LogLoad: LoadMap: /Game/Maps/LevelOne
+[2021.06.17-03.37.18:761][129]Cmd: MEM
+[2021.06.17-03.37.18:778][129]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.37.18:778][129]LogMemory: Process Physical Memory: 1417.14 MB used, 1419.62 MB peak
+[2021.06.17-03.37.18:778][129]LogMemory: Process Virtual Memory: 2139.28 MB used, 2289.55 MB peak
+[2021.06.17-03.37.18:778][129]LogMemory: Physical Memory: 9872.70 MB used,  6417.11 MB free, 16289.81 MB total
+[2021.06.17-03.37.18:778][129]LogMemory: Virtual Memory: 7200.06 MB used,  6417.11 MB free, 134217728.00 MB total
+[2021.06.17-03.37.18:778][129]LogMemory: 
+[2021.06.17-03.37.18:778][129]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.37.18:824][129]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.37.18:824][129]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.37.18:824][129]LoadErrors: Error: /Game/Maps/LevelOne : Can't find file for asset. /Game/LevelOne/LevelOne_TileMap
+[2021.06.17-03.37.18:824][129]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.37.18:824][129]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.37.18:826][129]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.37.18:826][129]LoadErrors: Failed to load /Game/LevelOne/LevelOne_TileMap.LevelOne_TileMap Referenced by LevelOne_TileMap_6
+[2021.06.17-03.37.18:826][129]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading NULL.
+[2021.06.17-03.37.18:830][129]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.37.18:831][129]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.37.18:832][129]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.37.18
+[2021.06.17-03.37.18:832][129]LogWorld: Bringing up level for play took: 0.001144
+[2021.06.17-03.37.18:833][129]LogLoad: Took 0.092949 seconds to LoadMap(/Game/Maps/LevelOne)
+[2021.06.17-03.37.20:848][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.37.20:891][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.37.34:941][787]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.37.34:952][787]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.37.34:952][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.37.34:952][787]PIE: New page: PIE session: MainMenu (Jun 16, 2021, 5:37:34 PM)
+[2021.06.17-03.37.34:952][787]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.06.17-03.37.34:953][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000791s)
+[2021.06.17-03.37.34:953][787]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.37.34:953][787]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2021.06.17-03.37.34:954][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001536s)
+[2021.06.17-03.37.34:981][787]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.37.34:988][787]LogInit: FAudioDevice initialized.
+[2021.06.17-03.37.35:053][787]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.37.35:055][787]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.16-22.37.35
+[2021.06.17-03.37.35:055][787]LogWorld: Bringing up level for play took: 0.001225
+[2021.06.17-03.37.35:063][787]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.868
+[2021.06.17-03.37.35:063][787]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.37.36:159][866]LogNet: Browse: /Game/Maps/LevelOne
+[2021.06.17-03.37.36:159][866]LogLoad: LoadMap: /Game/Maps/LevelOne
+[2021.06.17-03.37.36:179][866]Cmd: MEM
+[2021.06.17-03.37.36:196][866]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.37.36:196][866]LogMemory: Process Physical Memory: 1419.64 MB used, 1426.48 MB peak
+[2021.06.17-03.37.36:196][866]LogMemory: Process Virtual Memory: 2240.57 MB used, 2289.55 MB peak
+[2021.06.17-03.37.36:196][866]LogMemory: Physical Memory: 9843.36 MB used,  6446.45 MB free, 16289.81 MB total
+[2021.06.17-03.37.36:196][866]LogMemory: Virtual Memory: 7310.45 MB used,  6446.45 MB free, 134217728.00 MB total
+[2021.06.17-03.37.36:196][866]LogMemory: 
+[2021.06.17-03.37.36:196][866]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.37.36:242][866]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.37.36:242][866]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.37.36:242][866]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.37.36:242][866]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.37.36:244][866]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.37.36:244][866]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading NULL.
+[2021.06.17-03.37.36:247][866]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.37.36:248][866]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.37.36:249][866]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.37.36
+[2021.06.17-03.37.36:249][866]LogWorld: Bringing up level for play took: 0.001076
+[2021.06.17-03.37.36:250][866]LogLoad: Took 0.091049 seconds to LoadMap(/Game/Maps/LevelOne)
+[2021.06.17-03.37.38:134][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.37.38:180][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.37.57:444][847]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.37.57:469][847]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.37.57:469][847]LightingResults: New page: Lighting Build
+[2021.06.17-03.37.57:469][847]LoadErrors: New page: Loading map: LevelOne.umap
+[2021.06.17-03.37.57:470][847]MapCheck: New page: Map Check
+[2021.06.17-03.37.57:470][847]LightingResults: New page: Lighting Build
+[2021.06.17-03.37.57:729][847]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.37.57:761][847]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.37.57:817][847]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.425ms to complete.
+[2021.06.17-03.37.57:817][847]LogFileHelpers: Loading map 'LevelOne' took 0.349
+[2021.06.17-03.38.00:901][215]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.06.17-03.39.01:907][122]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (sky_Sprite)
+[2021.06.17-03.39.02:400][176]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (MatineeActor)
+[2021.06.17-03.39.05:534][548]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.06.17-03.39.12:431][372]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (sky_Sprite)
+[2021.06.17-03.39.13:307][472]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (sky_Sprite)
+[2021.06.17-03.39.13:776][527]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.06.17-03.39.16:337][831]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.06.17-03.39.18:942][142]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.06.17-03.39.20:254][298]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.06.17-03.39.22:582][576]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.06.17-03.39.24:044][750]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (sky_Sprite)
+[2021.06.17-03.39.25:758][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.17-03.39.25:840][946]LogSavePackage: Save=58.11ms
+[2021.06.17-03.39.25:840][946]LogSavePackage: Moving '../../../../Users/noman/Desktop/A4/Saved/LevelOne1806E1D940EA35DFBB97FCA0B51CD0E4.tmp' to '../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap'
+[2021.06.17-03.39.25:842][946]LogSavePackage: Display: Finished SavePackage ../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap
+[2021.06.17-03.39.26:960][ 77]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.39.26:967][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.39.26:967][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.39.26:968][ 77]PIE: New page: PIE session: LevelOne (Jun 16, 2021, 5:39:26 PM)
+[2021.06.17-03.39.26:968][ 77]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2021.06.17-03.39.26:970][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002222s)
+[2021.06.17-03.39.26:970][ 77]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.39.26:971][ 77]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2021.06.17-03.39.26:971][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.002977s)
+[2021.06.17-03.39.26:994][ 77]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.39.27:002][ 77]LogInit: FAudioDevice initialized.
+[2021.06.17-03.39.27:061][ 77]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.39.27:063][ 77]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.39.27
+[2021.06.17-03.39.27:063][ 77]LogWorld: Bringing up level for play took: 0.001403
+[2021.06.17-03.39.27:067][ 77]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelOne 0.871
+[2021.06.17-03.39.27:067][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.39.30:271][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.39.30:325][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Levels/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2021.06.17-03.39.33:061][773]LogAIModule: Creating AISystem for world LevelTwo
+[2021.06.17-03.39.33:080][773]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelTwo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.39.33:080][773]LightingResults: New page: Lighting Build
+[2021.06.17-03.39.33:081][773]LoadErrors: New page: Loading map: LevelTwo.umap
+[2021.06.17-03.39.33:082][773]MapCheck: New page: Map Check
+[2021.06.17-03.39.33:082][773]LightingResults: New page: Lighting Build
+[2021.06.17-03.39.33:150][773]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.39.33:179][773]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.39.33:234][773]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.257ms to complete.
+[2021.06.17-03.39.33:234][773]LogFileHelpers: Loading map 'LevelTwo' took 0.155
+[2021.06.17-03.39.34:223][889]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.39.34:231][889]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwo' with GeneratedClass '/Game/Levels/LevelTwo.LevelTwo_C' with ClassGeneratedBy '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwo'
+[2021.06.17-03.39.34:231][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.39.34:232][889]PIE: New page: PIE session: LevelTwo (Jun 16, 2021, 5:39:34 PM)
+[2021.06.17-03.39.34:232][889]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelTwo
+[2021.06.17-03.39.34:233][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001096s)
+[2021.06.17-03.39.34:233][889]LogAIModule: Creating AISystem for world LevelTwo
+[2021.06.17-03.39.34:233][889]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2021.06.17-03.39.34:233][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelTwo.LevelTwo to /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo (0.001779s)
+[2021.06.17-03.39.34:258][889]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.39.34:266][889]LogInit: FAudioDevice initialized.
+[2021.06.17-03.39.34:331][889]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.39.34:332][889]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTwo.LevelTwo up for play (max tick rate 0) at 2021.06.16-22.39.34
+[2021.06.17-03.39.34:333][889]LogWorld: Bringing up level for play took: 0.000974
+[2021.06.17-03.39.34:337][889]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_LevelTwo 0.142
+[2021.06.17-03.39.34:337][889]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwo' with GeneratedClass '/Game/Levels/LevelTwo.LevelTwo_C' with ClassGeneratedBy '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwo'
+[2021.06.17-03.39.35:969][ 80]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwo' with GeneratedClass '/Game/Levels/LevelTwo.LevelTwo_C' with ClassGeneratedBy '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwo'
+[2021.06.17-03.39.36:013][ 80]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwo' with GeneratedClass '/Game/Levels/LevelTwo.LevelTwo_C' with ClassGeneratedBy '/Game/Levels/LevelTwo.LevelTwo:PersistentLevel.LevelTwo'
+[2021.06.17-03.39.37:211][217]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.39.37:231][217]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.39.37:231][217]LightingResults: New page: Lighting Build
+[2021.06.17-03.39.37:232][217]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.06.17-03.39.37:232][217]MapCheck: New page: Map Check
+[2021.06.17-03.39.37:232][217]LightingResults: New page: Lighting Build
+[2021.06.17-03.39.37:309][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.39.37:341][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.39.37:401][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.133ms to complete.
+[2021.06.17-03.39.37:401][217]LogFileHelpers: Loading map 'MainMenu' took 0.171
+[2021.06.17-03.39.38:464][343]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.39.38:473][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.39.38:473][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.39.38:473][343]PIE: New page: PIE session: MainMenu (Jun 16, 2021, 5:39:38 PM)
+[2021.06.17-03.39.38:473][343]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.06.17-03.39.38:474][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000923s)
+[2021.06.17-03.39.38:475][343]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.39.38:475][343]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2021.06.17-03.39.38:475][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001659s)
+[2021.06.17-03.39.38:499][343]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.39.38:507][343]LogInit: FAudioDevice initialized.
+[2021.06.17-03.39.38:568][343]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.39.38:569][343]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.16-22.39.38
+[2021.06.17-03.39.38:569][343]LogWorld: Bringing up level for play took: 0.000570
+[2021.06.17-03.39.38:574][343]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.379
+[2021.06.17-03.39.38:575][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.39.40:153][528]LogNet: Browse: /Game/Maps/LevelOne
+[2021.06.17-03.39.40:153][528]LogLoad: LoadMap: /Game/Maps/LevelOne
+[2021.06.17-03.39.40:170][528]Cmd: MEM
+[2021.06.17-03.39.40:187][528]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.39.40:187][528]LogMemory: Process Physical Memory: 1424.30 MB used, 1439.21 MB peak
+[2021.06.17-03.39.40:187][528]LogMemory: Process Virtual Memory: 2089.86 MB used, 2289.55 MB peak
+[2021.06.17-03.39.40:187][528]LogMemory: Physical Memory: 8670.76 MB used,  7619.05 MB free, 16289.81 MB total
+[2021.06.17-03.39.40:187][528]LogMemory: Virtual Memory: 7175.49 MB used,  7619.05 MB free, 134217728.00 MB total
+[2021.06.17-03.39.40:187][528]LogMemory: 
+[2021.06.17-03.39.40:187][528]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.39.40:193][528]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.39.40:193][528]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.39.40:193][528]LoadErrors: Error: /Game/Maps/LevelOne : Can't find file for asset. /Game/LevelOne/LevelOne_TileMap
+[2021.06.17-03.39.40:193][528]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.39.40:193][528]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.39.40:195][528]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.39.40:195][528]LoadErrors: Failed to load /Game/LevelOne/LevelOne_TileMap.LevelOne_TileMap Referenced by LevelOne_TileMap_6
+[2021.06.17-03.39.40:195][528]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading NULL.
+[2021.06.17-03.39.40:203][528]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.39.40:204][528]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.39.40:205][528]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.39.40
+[2021.06.17-03.39.40:205][528]LogWorld: Bringing up level for play took: 0.001331
+[2021.06.17-03.39.40:207][528]LogLoad: Took 0.053752 seconds to LoadMap(/Game/Maps/LevelOne)
+[2021.06.17-03.39.40:852][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.39.40:894][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.39.44:732][ 52]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.39.44:756][ 52]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.39.44:756][ 52]LightingResults: New page: Lighting Build
+[2021.06.17-03.39.44:757][ 52]LoadErrors: New page: Loading map: LevelOne.umap
+[2021.06.17-03.39.44:757][ 52]MapCheck: New page: Map Check
+[2021.06.17-03.39.44:757][ 52]LightingResults: New page: Lighting Build
+[2021.06.17-03.39.44:863][ 52]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.39.44:896][ 52]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.39.44:950][ 52]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.635ms to complete.
+[2021.06.17-03.39.44:951][ 52]LogFileHelpers: Loading map 'LevelOne' took 0.196
+[2021.06.17-03.39.47:746][385]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (sky_Sprite)
+[2021.06.17-03.39.48:106][420]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (PlayerStart)
+[2021.06.17-03.39.48:740][488]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.06.17-03.40.12:299][298]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (sky_Sprite)
+[2021.06.17-03.40.34:560][948]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.40.36:140][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelOne" FILE="../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.17-03.40.36:220][948]LogSavePackage: Save=55.92ms
+[2021.06.17-03.40.36:220][948]LogSavePackage: Moving '../../../../Users/noman/Desktop/A4/Saved/LevelOne86869C774EF112E8030D449DF933C75A.tmp' to '../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap'
+[2021.06.17-03.40.36:222][948]LogSavePackage: Display: Finished SavePackage ../../../../Users/noman/Desktop/A4/Content/Levels/LevelOne.umap
+[2021.06.17-03.40.36:234][948]LogFileHelpers: Saving map 'LevelOne' took 0.150
+[2021.06.17-03.40.36:235][948]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.40.36:236][948]LightingResults: New page: Lighting Build
+[2021.06.17-03.40.36:236][948]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.06.17-03.40.36:237][948]MapCheck: New page: Map Check
+[2021.06.17-03.40.36:237][948]LightingResults: New page: Lighting Build
+[2021.06.17-03.40.36:334][948]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.40.36:365][948]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.40.36:420][948]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.804ms to complete.
+[2021.06.17-03.40.36:420][948]LogFileHelpers: Loading map 'MainMenu' took 0.186
+[2021.06.17-03.40.37:847][117]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.17-03.40.37:856][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.40.37:856][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.17-03.40.37:856][117]PIE: New page: PIE session: MainMenu (Jun 16, 2021, 5:40:37 PM)
+[2021.06.17-03.40.37:856][117]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2021.06.17-03.40.37:857][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001051s)
+[2021.06.17-03.40.37:858][117]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.40.37:858][117]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2021.06.17-03.40.37:858][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001808s)
+[2021.06.17-03.40.37:883][117]LogInit: XAudio2 using 'Speakers (Yeti Nano)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.06.17-03.40.37:891][117]LogInit: FAudioDevice initialized.
+[2021.06.17-03.40.37:952][117]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.40.37:952][117]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.16-22.40.37
+[2021.06.17-03.40.37:953][117]LogWorld: Bringing up level for play took: 0.000586
+[2021.06.17-03.40.37:958][117]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.237
+[2021.06.17-03.40.37:958][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.40.39:555][304]LogNet: Browse: /Game/Maps/LevelOne
+[2021.06.17-03.40.39:556][304]LogLoad: LoadMap: /Game/Maps/LevelOne
+[2021.06.17-03.40.39:570][304]Cmd: MEM
+[2021.06.17-03.40.39:587][304]LogMemory: Platform Memory Stats for Windows
+[2021.06.17-03.40.39:587][304]LogMemory: Process Physical Memory: 1437.83 MB used, 1450.75 MB peak
+[2021.06.17-03.40.39:587][304]LogMemory: Process Virtual Memory: 2092.65 MB used, 2289.55 MB peak
+[2021.06.17-03.40.39:587][304]LogMemory: Physical Memory: 8565.71 MB used,  7724.11 MB free, 16289.81 MB total
+[2021.06.17-03.40.39:587][304]LogMemory: Virtual Memory: 7166.74 MB used,  7724.11 MB free, 134217728.00 MB total
+[2021.06.17-03.40.39:587][304]LogMemory: 
+[2021.06.17-03.40.39:587][304]Allocator Stats for TBB: (not implemented)
+[2021.06.17-03.40.39:593][304]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.40.39:593][304]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.40.39:593][304]LoadErrors: Error: /Game/Maps/LevelOne : Can't find file for asset. /Game/LevelOne/LevelOne_TileMap
+[2021.06.17-03.40.39:593][304]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.40.39:593][304]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading ../../../../Users/noman/Desktop/A4/Content/Maps/LevelOne.umap.
+[2021.06.17-03.40.39:595][304]LogLinker: Warning: Can't find file '/Game/LevelOne/LevelOne_TileMap'
+[2021.06.17-03.40.39:595][304]LoadErrors: Failed to load /Game/LevelOne/LevelOne_TileMap.LevelOne_TileMap Referenced by LevelOne_TileMap_6
+[2021.06.17-03.40.39:595][304]LogLinker: Warning: Can't find file for asset '/Game/LevelOne/LevelOne_TileMap' while loading NULL.
+[2021.06.17-03.40.39:603][304]LogAIModule: Creating AISystem for world LevelOne
+[2021.06.17-03.40.39:604][304]LogLoad: Game class is 'OurGameMode_C'
+[2021.06.17-03.40.39:606][304]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2021.06.16-22.40.39
+[2021.06.17-03.40.39:606][304]LogWorld: Bringing up level for play took: 0.001763
+[2021.06.17-03.40.39:607][304]LogLoad: Took 0.051817 seconds to LoadMap(/Game/Maps/LevelOne)
+[2021.06.17-03.40.41:172][491]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.40.41:216][491]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2021.06.17-03.40.41:853][565]Cmd: SELECT NONE
+[2021.06.17-03.40.42:212][608]Cmd: SELECT NONE
+[2021.06.17-03.40.54:712][104]Cmd: MAP LOAD FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.17-03.40.54:712][104]LightingResults: New page: Lighting Build
+[2021.06.17-03.40.54:713][104]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.06.17-03.40.54:713][104]MapCheck: New page: Map Check
+[2021.06.17-03.40.54:713][104]LightingResults: New page: Lighting Build
+[2021.06.17-03.40.54:741][104]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.17-03.40.54:835][104]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.17-03.40.54:866][104]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.17-03.40.54:924][104]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.445ms to complete.
+[2021.06.17-03.40.54:925][104]LogFileHelpers: Loading map 'MainMenu' took 0.214
+[2021.06.17-03.40.58:953][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.17-03.40.58:997][584]LogSavePackage: Save=19.90ms
+[2021.06.17-03.40.58:997][584]LogSavePackage: Moving '../../../../Users/noman/Desktop/A4/Saved/MainMenu64B4C6B74AC8D92C0F7DE3BAAF202B9B.tmp' to '../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap'
+[2021.06.17-03.40.58:998][584]LogSavePackage: Display: Finished SavePackage ../../../../Users/noman/Desktop/A4/Content/Levels/MainMenu.umap
+[2021.06.17-03.41.09:797][849]Cmd: QUIT_EDITOR
+[2021.06.17-03.41.10:798][849]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.06.17-03.41.10:807][849]LogExit: Preparing to exit.
+[2021.06.17-03.41.11:104][849]LogDirectoryWatcher: A directory notification for 'C:/Users/noman/Desktop/A4/Content/' was aborted.
+[2021.06.17-03.41.11:130][849]LogExit: Editor shut down
+[2021.06.17-03.41.11:141][849]LogExit: Transaction tracking system shut down
+[2021.06.17-03.41.11:271][849]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2021.06.17-03.41.11:271][849]LogDirectoryWatcher: A directory notification for '../../../../Users/noman/Desktop/A4/Content/' was aborted.
+[2021.06.17-03.41.11:272][849]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2021.06.17-03.41.11:272][849]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2021.06.17-03.41.11:272][849]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2021.06.17-03.41.11:364][849]LogExit: Object subsystem successfully closed.
+[2021.06.17-03.41.11:391][849]LogD3D11RHI: Shutdown
+[2021.06.17-03.41.11:391][849]LogD3D11RHI: CleanupD3DDevice
+[2021.06.17-03.41.11:464][849]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.06.17-03.41.11:481][849]LogModuleManager: Shutting down and abandoning module SequencerWidgets (538)
+[2021.06.17-03.41.11:481][849]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2021.06.17-03.41.11:481][849]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2021.06.17-03.41.11:481][849]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2021.06.17-03.41.11:481][849]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2021.06.17-03.41.11:481][849]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2021.06.17-03.41.11:481][849]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2021.06.17-03.41.11:481][849]LogDirectoryWatcher: A directory notification for 'C:/UE_4.17/FeaturePacks/' was aborted.
+[2021.06.17-03.41.11:482][849]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2021.06.17-03.41.11:482][849]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2021.06.17-03.41.11:482][849]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2021.06.17-03.41.11:483][849]LogDirectoryWatcher: A directory notification for 'C:/Users/noman/Desktop/A4/Content/Collections/' was aborted.
+[2021.06.17-03.41.11:483][849]LogDirectoryWatcher: A directory notification for 'C:/Users/noman/Desktop/A4/Content/Developers/noman/Collections/' was aborted.
+[2021.06.17-03.41.11:483][849]LogDirectoryWatcher: A directory notification for 'C:/Users/noman/Desktop/A4/Saved/Collections/' was aborted.
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module Media (477)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2021.06.17-03.41.11:483][849]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2021.06.17-03.41.11:484][849]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2021.06.17-03.41.11:484][849]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2021.06.17-03.41.11:484][849]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2021.06.17-03.41.11:484][849]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2021.06.17-03.41.12:191][849]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2021.06.17-03.41.12:192][849]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2021.06.17-03.41.12:192][849]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2021.06.17-03.41.12:192][849]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2021.06.17-03.41.12:192][849]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2021.06.17-03.41.12:192][849]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2021.06.17-03.41.12:192][849]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2021.06.17-03.41.12:192][849]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2021.06.17-03.41.12:236][849]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2021.06.17-03.41.12:236][849]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2021.06.17-03.41.12:236][849]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2021.06.17-03.41.12:236][849]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2021.06.17-03.41.12:236][849]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2021.06.17-03.41.12:236][849]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2021.06.17-03.41.12:236][849]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2021.06.17-03.41.12:236][849]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2021.06.17-03.41.12:236][849]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2021.06.17-03.41.12:236][849]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2021.06.17-03.41.12:242][849]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2021.06.17-03.41.12:243][849]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2021.06.17-03.41.12:243][849]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2021.06.17-03.41.12:243][849]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2021.06.17-03.41.12:243][849]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2021.06.17-03.41.12:243][849]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2021.06.17-03.41.12:243][849]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2021.06.17-03.41.12:243][849]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2021.06.17-03.41.12:243][849]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2021.06.17-03.41.12:243][849]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2021.06.17-03.41.12:243][849]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2021.06.17-03.41.12:244][849]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2021.06.17-03.41.12:244][849]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2021.06.17-03.41.12:244][849]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2021.06.17-03.41.12:244][849]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2021.06.17-03.41.12:244][849]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2021.06.17-03.41.12:244][849]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2021.06.17-03.41.12:244][849]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2021.06.17-03.41.12:244][849]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2021.06.17-03.41.12:244][849]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2021.06.17-03.41.12:244][849]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2021.06.17-03.41.12:319][849]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2021.06.17-03.41.12:319][849]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2021.06.17-03.41.12:319][849]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2021.06.17-03.41.12:319][849]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2021.06.17-03.41.12:319][849]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2021.06.17-03.41.12:320][849]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2021.06.17-03.41.12:321][849]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2021.06.17-03.41.12:321][849]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2021.06.17-03.41.12:321][849]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2021.06.17-03.41.12:321][849]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2021.06.17-03.41.12:321][849]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2021.06.17-03.41.12:321][849]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2021.06.17-03.41.12:321][849]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2021.06.17-03.41.12:321][849]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2021.06.17-03.41.12:321][849]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2021.06.17-03.41.12:321][849]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2021.06.17-03.41.12:321][849]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2021.06.17-03.41.12:422][849]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2021.06.17-03.41.12:523][849]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2021.06.17-03.41.12:523][849]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2021.06.17-03.41.12:523][849]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2021.06.17-03.41.12:523][849]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2021.06.17-03.41.12:523][849]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2021.06.17-03.41.12:523][849]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2021.06.17-03.41.12:524][849]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2021.06.17-03.41.12:524][849]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2021.06.17-03.41.12:524][849]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2021.06.17-03.41.12:524][849]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2021.06.17-03.41.12:525][849]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module Core (168)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2021.06.17-03.41.12:528][849]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2021.06.17-03.41.12:530][849]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2021.06.17-03.41.12:565][849]LogDerivedDataCache: Shutdown
+[2021.06.17-03.41.12:565][849]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2021.06.17-03.41.12:565][849]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2021.06.17-03.41.12:565][849]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2021.06.17-03.41.12:565][849]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2021.06.17-03.41.12:565][849]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2021.06.17-03.41.12:565][849]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2021.06.17-03.41.12:565][849]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2021.06.17-03.41.12:565][849]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2021.06.17-03.41.12:565][849]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2021.06.17-03.41.12:565][849]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2021.06.17-03.41.12:566][849]LogOnline: Display: Unloading online subsystem: NULL
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2021.06.17-03.41.12:566][849]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2021.06.17-03.41.12:566][849]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.06.17-03.41.12:566][849]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA505FD7-45AC-CF70-B08E-44B847D47EBA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=b67de0de482199c22f448281d4f34e7c%7C2679e70e3c004fdaabad7c35266e5ac2%7C025a0d02-9521-48bc-8362-409aedaa7a74&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2021.06.17-03.41.12:585][849]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2021.06.17-03.41.12:586][849]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2021.06.17-03.41.12:586][849]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.06.17-03.41.12:586][849]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.06.17-03.41.12:586][849]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2021.06.17-03.41.12:586][849]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2021.06.17-03.41.12:586][849]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2021.06.17-03.41.12:586][849]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2021.06.17-03.41.12:588][849]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2021.06.17-03.41.12:588][849]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2021.06.17-03.41.12:588][849]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2021.06.17-03.41.12:588][849]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2021.06.17-03.41.12:588][849]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2021.06.17-03.41.12:588][849]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2021.06.17-03.41.12:588][849]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2021.06.17-03.41.12:588][849]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2021.06.17-03.41.12:588][849]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2021.06.17-03.41.12:588][849]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2021.06.17-03.41.12:588][849]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2021.06.17-03.41.12:593][849]LogExit: Exiting.
+[2021.06.17-03.41.12:600][849]Log file closed, 06/16/21 22:41:12
